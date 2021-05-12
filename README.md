@@ -3,7 +3,7 @@
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
 - [Intro to Design Thinking](five-phases/)
-- [Minimum Viable Product](mvp)
+- [Minimum Viable Product](mvp/)
 - [Empathize](empathy/)
 - [Define & Ideate](define-and-ideate/)
 - [Prototype & Test](prototype-and-test/)
